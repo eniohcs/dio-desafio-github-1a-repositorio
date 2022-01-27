@@ -1,0 +1,30 @@
+O Git Bash é um terminal extendido para otimizar o uso do Git.
+
+Download do Git:
+
+https://git-scm.com/downloads
+
+- Alguns comandos básicos:
+
+windows		linux
+
+​     dir	             ls     	       - Listagem de diretórios na pasta.
+
+​	cd/      		   cd	 	    - trocar de nível, subir, descer nos diretórios.
+
+​	cd ..			   cd ..	     	- retroceder.
+
+​	cls			    Ctrl+L	       - limpar tela.		
+
+​	Tab							    	- auxílo/completa informação escrita.
+
+   mkdir 	      mkdir	    	- criar pasta no diretório.
+
+​     (   >  )    		   				 - redirecionador de fluxo.
+
+ 	  del       		 - deleta o que tem na pasta.
+
+   rmdir			rm -rf		- deleta a pasta ou repositório.
+
+- SHA1 - Secure Hash Algorithm 
+- Chave SSH é um forma de estabelecer uma conexão segura e encriptada entre duas máquinas.
